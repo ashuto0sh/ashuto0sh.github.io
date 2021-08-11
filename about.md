@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a Software Developer, I am a fish too. I take baits for a living. An amateur at everything.
 
-Interests include Modern C++, Generic Programming, Discrete Mathematics, Chess and Philosophy. HMU if you want to give/take advice or chat in general.
+Interests include Modern C++, Generic Programming, Discrete Mathematics, Chess and Philosophy. HMU if you have a great game of Chess to share.
 
 ### Contact me
 
