@@ -11,3 +11,6 @@ Interests include Modern C++, Generic Programming, Discrete Mathematics, Chess a
 ### Contact me
 
 [Email](mailto:azbycs@gmail.com)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ashuto0sh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ashuto0sh?trk=profile-badge">Ashutosh Tripathi</a></div>
+              
