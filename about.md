@@ -8,6 +8,11 @@ I am a Software Developer, I am a fish too. I take baits for a living. An amateu
 
 Interests include Modern C++, Generic Programming, Discrete Mathematics, Chess and Philosophy. HMU if you have a great game of Chess to share.
 
+### Currently Reading
+
+#### Tech: [Grokking Simplicity](https://www.goodreads.com/en/book/show/52257623)
+#### Non-Tech: [Dŗg-Dŗśya-Viveka](https://www.goodreads.com/book/show/8086811-d-g-d-ya-viveka?ref=nav_sb_noss_l_6)
+
 ### Contact me
 
 [Email](mailto:azbycs@gmail.com)
